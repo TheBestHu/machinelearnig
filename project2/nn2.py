@@ -109,7 +109,7 @@ if __name__ == "__main__":
     X_test = X_test.astype('float32')
     X_train /= 255  # 归一化
     X_test /= 255   # 归一化
-    print(X_train.shape[0], 'train samples')
+    print('/n',X_train.shape[0], 'train samples')
     print(X_test.shape[0], 'test samples')
     t_model={}
     for i in range(0,600):
