@@ -1,0 +1,191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/huye/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/b2e41519c185655a2946f8d77fbc30b1/Message/MessageTemp/9534dd57612ab46e0183107b5b6ed10f/File/CombinationProblem.java",
+		"/Users/huye/Desktop/perfectSquare.java",
+		"/Users/huye/IdeaProjects/Solution/src/chinese",
+		"/Users/huye/Downloads/MySQL-python-1.2.4b4/setup.py",
+		"/Users/huye/appleBackUp/exchange/2017fall/CN/project/Sample Client.java",
+		"/Users/huye/Downloads/Hu_Yebowen/encoder.java",
+		"/Users/huye/Downloads/MapSumPairs.java",
+		"/Users/huye/IdeaProjects/Skycraper/src/Skyscraper.java",
+		"/Users/huye/appleBackUp/exchange/2017fall/yangpeng/bt_my_v0.2/tools/qt_img-master/m_widgets/labelDialog.py",
+		"/Users/huye/appleBackUp/exchange/2018spring/cousera/deeplearning/CNN/深度学习第五课第二周/2/Word Vector Representation/w2v_utils.py",
+		"/Users/huye/Downloads/machinelearning-fc934820b222.json",
+		"/Users/huye/cloud-bigtable-examples/java/dataflow-load-books/README.md",
+		"/Users/huye/Desktop/Testing hadoop on cloud dataproc.md",
+		"/Users/huye/Desktop/STATISTIC IN PYTHON(CAMPDATA).md",
+		"/Users/huye/Desktop/skyScraper.java",
+		"/Users/huye/Downloads/skyScraper.java",
+		"/Users/huye/Documents/GitHub/machinelearnig/Data_visulization/Q3.py",
+		"/Users/huye/Documents/GitHub/machinelearnig/Data_visulization/Q4.py",
+		"/Users/huye/Documents/GitHub/machinelearnig/Homework1/ERMS.py",
+		"/Users/huye/Documents/GitHub/machinelearnig/Homework1/HW1.py",
+		"/Users/huye/models/official/wide_deep/data_download.py",
+		"/Users/huye/appleBackUp/exchange/2017fall/yangpeng/bt_my_v0.2/tools/qt_img-master/picture/000121 (2).jpg.xml",
+		"/Users/huye/appleBackUp/exchange/2017fall/yangpeng/bt_my_v0.2/tools/qt_img-master/main.py",
+		"/Users/huye/models/samples/core/get_started/premade_estimator.py",
+		"/Users/huye/models/samples/core/get_started/iris_data.py",
+		"/Users/huye/models/tutorials/image/alexnet/alexnet_benchmark.py",
+		"/Users/huye/Downloads/Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-Source-code/src/com/timbuchalka/Main.java"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Polynomial_regression.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

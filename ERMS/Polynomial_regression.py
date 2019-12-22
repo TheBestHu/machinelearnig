@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 get_ipython().magic('matplotlib inline')
 import math
 import cmath
-
 test_g = np.random.normal(0,.15,100)
 train_g = np.random.normal(0,.15,100)
 def ERMS(m):
